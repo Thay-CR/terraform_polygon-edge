@@ -1,0 +1,2 @@
+alb_ssl_certificate = "arn:aws:acm:<region>:<user>/_id:certificate/<id_cert>"
+premine             = "<wallet>"
